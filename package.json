@@ -1,4 +1,5 @@
 {
+  "version": "0.6.0",
   "name": "contentful-metalsmith",
   "description": "A Metalsmith's plugin to get content from Contentful",
   "main": "index.js",
